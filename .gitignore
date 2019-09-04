@@ -341,3 +341,4 @@ fabric.properties
 *.out
 *.app
 
+/.idea/.name
