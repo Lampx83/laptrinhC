@@ -5,6 +5,11 @@ main() {
     count = 5;
     write_extern();
 
-    //fd/fd
+    //fd/fdj
+    ghfg
+
+    fgh
+    fg
+    h
 
 }
